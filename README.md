@@ -1,2 +1,2 @@
 # hello-world
-studing GitHub
+studying GitHub
